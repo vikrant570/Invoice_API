@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Invoice_API
 =======
 ## INVOICE SYSTEM API
